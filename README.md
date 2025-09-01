@@ -1,7 +1,7 @@
 # The-Wheel
 
 ## Documentation
-All Documentation in English! \n
+All Documentation in English! <br>
 [Sprint Backlog](https://docs.google.com/spreadsheets/d/1A6qgzNF7eFwW12SikSRkp7DugFDTFNgHiJknRVjrA_E/edit?usp=sharing)
 
 ### Customer meetings
